@@ -245,6 +245,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:44Z"
+    "logs_latest_update": "2026-07-21T18:58:44Z",
+    "text_extraction_latest_update": "2026-07-21T21:34:30.248811Z"
   }
 }
